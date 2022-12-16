@@ -156,7 +156,6 @@ html {
 
 .menu .author-content h4 {
     margin-bottom: 0px;
-	text-transform: uppercase;
 }
 
 .menu .author-content span {
@@ -306,7 +305,7 @@ html {
 }
 
 .section-heading {
-    text-align: left;
+    text-align: center;
     padding: 60px 0 40px 0;
 }
 
@@ -317,7 +316,7 @@ html {
 }
 
 .section-heading .line-dec {
-    max-width: 500px;
+    max-width: 1000px;
     height: 3px;
     background-color: #fff;
     margin: 20px 0;
@@ -359,7 +358,8 @@ button {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     transition: all 0.5s;
-    border: none;
+    border: solid;
+    border-radius: 60px;
     outline: none;
     cursor: pointer;
     position: sticky;
@@ -803,4 +803,6 @@ section.contact-me {
     .isotope-toolbar {
         margin-bottom: 20px;
     }
+
+    
 }

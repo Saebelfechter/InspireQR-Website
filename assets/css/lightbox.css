@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
 html.lb-disable-scrolling {
   overflow: hidden;
   /* Position fixed required for iOS. Just putting overflow: hidden; on the body is not enough. */
@@ -200,4 +203,28 @@ html.lb-disable-scrolling {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
+}
+.quote-area{
+  font-family: 'Poppins', sans-serif;
+  border-style: solid;
+  border-width:1%;
+  border-color: rgb(111, 192, 247);
+  border: 2px solid skyblue;
+  border-radius: 30px;
+  background-color: skyblue;
+  align-items: center;
+  justify-content: center;
+  min-height: 25vh;
+  text-align: center;
+
+}
+.button-area{
+  text-align: center;
+
+}
+.writter{
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  text-align: center;
+  height: 0;
 }
