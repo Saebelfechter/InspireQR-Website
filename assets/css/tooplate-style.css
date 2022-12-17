@@ -307,6 +307,7 @@ html {
 .section-heading {
     text-align: center;
     padding: 60px 0 40px 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 .section-heading h2 {
@@ -453,10 +454,6 @@ button:hover {
 .service-item:hover .fa {
 	color: #000;
 }
-
-
-/* My Work */
-
 
 .isotope-wrapper {
     position: relative;
