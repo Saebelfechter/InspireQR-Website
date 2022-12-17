@@ -207,20 +207,18 @@ html.lb-disable-scrolling {
 .quote-area{
   font-family: 'Poppins', sans-serif;
   border-style: solid;
-  border-width:1%;
+  border-width:299%;
   border-color: rgb(111, 192, 247);
   border: 2px solid skyblue;
   border-radius: 30px;
   background-color: skyblue;
-  align-items: center;
-  justify-content: center;
   min-height: 25vh;
+  font-size: 26px;
   text-align: center;
-
+  width: 500px;
 }
 .button-area{
   text-align: center;
-
 }
 .writter{
   font-family: 'Poppins', sans-serif;
@@ -228,3 +226,8 @@ html.lb-disable-scrolling {
   text-align: center;
   height: 0;
 }
+.my-work{
+  align-items: center;
+  justify-items: center;
+}
+
