@@ -278,5 +278,8 @@ html[xmlns] .flexslider .slides {
     opacity: 1;
     right: 10px;
   }
-  
+  .writer{
+    border-style:solid;
+    border-width:1%;
+}
 }
