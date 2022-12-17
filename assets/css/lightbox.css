@@ -215,7 +215,6 @@ html.lb-disable-scrolling {
   min-height: 25vh;
   font-size: 26px;
   text-align: center;
-  width: 500px;
 }
 .button-area{
   text-align: center;
@@ -226,8 +225,5 @@ html.lb-disable-scrolling {
   text-align: center;
   height: 0;
 }
-.my-work{
-  align-items: center;
-  justify-items: center;
-}
+
 
