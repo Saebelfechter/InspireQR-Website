@@ -207,12 +207,12 @@ html.lb-disable-scrolling {
 .quote-area{
   font-family: 'Poppins', sans-serif;
   border-style: solid;
-  border-width:299%;
+  border-width:300%;
   border-color: rgb(111, 192, 247);
   border: 2px solid skyblue;
   border-radius: 30px;
   background-color: skyblue;
-  min-height: 25vh;
+  min-height: 35vh;
   font-size: 26px;
   text-align: center;
 }
